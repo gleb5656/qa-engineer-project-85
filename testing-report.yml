@@ -7,38 +7,38 @@
     Проверка создания собственной игры
   status: pass
   
-  - summary: |
+- summary: |
     Проверка работы глобального чата
   status: pass
   
-  - summary: |
+- summary: |
     Проверка создания турнира
   status: pass
   
-  - summary: |
+- summary: |
     Проверка работы сайта на мобильном устройстве
   status: fail
   
-  - summary: |
+- summary: |
     Проверка участия в уже существующей игре
   status: fail
   
-  - summary: |
+- summary: |
      Проверка просмотра профиля другого пользователя
   status: pass
   
-  - summary: |
+- summary: |
    Проверка работы сайта в браузере Сhrome
   status: pass
   
-  - summary: |
+- summary: |
     Проверка работы сайта в браузере Firefox 
   status: pass
   
-  - summary: |
+- summary: |
      Проверка поведения сайта в случае победы в игре. 
   status: pass
   
-  - summary: |
+- summary: |
      Проверка поведения сайта в случае поражения в игре. 
   status: pass
